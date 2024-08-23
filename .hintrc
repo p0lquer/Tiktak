@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "development"
+  ],
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not samsung <= 24"
+  ],
+  "hints": {
+    "axe/name-role-value": "off",
+    "typescript-config/consistent-casing": "off"
+  }
+}
